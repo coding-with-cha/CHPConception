@@ -1,0 +1,25 @@
+User story for garage.com "announcements website"
+
+Visitor: an individual who is searching the net,
+             he is an unknown user, he is not yet a customer.
+             his tasks: 
+             - consult announcements
+             - contact admin
+             - create account
+
+Customer: a visitor who has already created an account on the site.
+              his tasks:
+              - manage announcements
+              - make an order
+              - manage cart
+              - user account management
+              - contact admin
+
+Admin: the webmaster, 
+       ensures the dynamism of the site, watches over the updating of articles
+       and manages the management of payments and deliveries.
+              his tasks:
+              - manage announcements
+              - order management
+              - user Management
+              - admin account management
